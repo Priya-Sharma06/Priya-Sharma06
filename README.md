@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Priya Sharma</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications" />
+Artificial Intelligence & Machine Learning Student | Web Developer
 </p>
 
 <p align="center">
@@ -11,21 +11,18 @@
 <a href="mailto:283priyasharma@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
-<a href="https://github.com/Priya-Sharma06">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎓 B.Tech student in **Artificial Intelligence & Machine Learning**  
 📍 Vivekananda Institute of Professional Studies (GGSIPU), Delhi  
 
-💡 Passionate about **AI, Machine Learning and Web Development**  
+💡 Passionate about **Artificial Intelligence, Machine Learning, and Web Development**
 
-🚀 I enjoy building projects that combine **AI with real-world applications**
+🚀 I enjoy building **intelligent applications and full-stack web solutions**
 
 ---
 
@@ -33,30 +30,54 @@
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java"/>
+<img src="https://skillicons.dev/icons?i=c" height="30"/> C &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="30"/> C++ &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="30"/> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="30"/> Java
 </p>
+
+---
 
 ### Web Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,express"/>
+<img src="https://skillicons.dev/icons?i=html" height="30"/> HTML &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="30"/> CSS &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="30"/> JavaScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="30"/> React &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="30"/> Next.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="30"/> Express.js
 </p>
+
+---
 
 ### Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="30"/> MySQL &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" height="30"/> MongoDB
 </p>
 
+---
+
 ### Machine Learning & AI
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python" height="30"/> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" height="30"/> TensorFlow
 </p>
 
 Libraries:  
-Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow • Keras
+Pandas • NumPy • Matplotlib • Scikit-learn • Keras
 
-### Tools
+---
+
+### Tools & Platforms
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git" height="30"/> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="30"/> GitHub &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="30"/> VS Code
 </p>
 
 ---
@@ -64,35 +85,35 @@ Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow • Keras
 # 🚀 Featured Projects
 
 ### 🤖 Virtual Assistant
-Voice-enabled AI assistant capable of executing tasks and responding to voice commands.
+AI-powered voice assistant capable of executing tasks and responding to commands.
 
 🔗 https://github.com/Priya-Sharma06/Virtual-Assistant
 
 ---
 
 ### 🏨 Hotel Booking Website
-A responsive web platform allowing users to browse and book hotels.
+Web application allowing users to browse and book hotel stays.
 
 🔗 https://github.com/Priya-Sharma06/Hotel-Booking
 
 ---
 
 ### 👟 Shoes E-commerce Website
-Interactive online shoe store with cart functionality.
+Interactive website showcasing shoe collections with cart functionality.
 
 🔗 https://github.com/Priya-Sharma06/Shoes-website
 
 ---
 
 ### 📊 Demand Forecasting
-Machine learning project predicting demand patterns using data analysis.
+Machine learning project predicting demand trends using historical data.
 
 🔗 https://github.com/Priya-Sharma06/demand_forecast
 
 ---
 
 ### 🌍 AI Trip Planner
-AI-based travel planning system generating personalized itineraries.
+AI-powered system generating personalized travel itineraries.
 
 🔗 https://github.com/nikhil22321/AI-trip-planner
 
@@ -102,43 +123,27 @@ AI-based travel planning system generating personalized itineraries.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priya-Sharma06&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Priya-Sharma06&show_icons=true&theme=default"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Sharma06&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Sharma06&layout=compact"/>
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priya-Sharma06&theme=radical"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya-Sharma06&theme=react-dark"/>
 </p>
 
 ---
 
 # 🏆 Achievements
 
-🥇 National Semifinalist — Flipkart GRID 7.0  
-🥈 Semifinalist — Coderush 5.0 Hackathon
+🏅 National Semifinalist — Flipkart GRID 7.0  
+🏅 Semifinalist — Coderush 5.0 Hackathon  
 
 ---
 
 # 💡 Interests
 
-✨ Artificial Intelligence  
-📊 Machine Learning  
-🌐 Web Development  
-🚀 Building intelligent real-world applications
+• Artificial Intelligence  
+• Machine Learning  
+• Web Development  
+• Building intelligent applications  
 
 ---
 
