@@ -1,30 +1,31 @@
+<!-- Name -->
+<h1 align="center">Priya Sharma Harit</h1>
+
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Priya+Sharma;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Smart+Applications&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Enthusiast;Software+Developer;Python+Developer;Building+Smart+Applications;Exploring+AI+and+Intelligent+Systems&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+AI • Machine Learning • Software Development • Smart Applications
 </p>
 
 ---
 
-# 👩‍💻 Priya Sharma
-
-💡 **AI & Machine Learning Enthusiast**  
-🚀 Passionate about building **smart applications using AI, Python, and modern web technologies**  
-🎓 B.Tech in **Artificial Intelligence & Machine Learning**  
-
-🔗 **GitHub:** https://github.com/Priya-Sharma06  
-🔗 **LinkedIn:** https://www.linkedin.com/in/priya-sharma-harit-7a0695291
-
----
-
-# ✨ About Me
+# 👩‍💻 About Me
 
 Hello! I'm **Priya Sharma**, a developer passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
 
 I enjoy building applications that solve real-world problems using **AI models, Python programming, and modern web technologies**. My focus is on creating systems that are **smart, efficient, and user-friendly**.
 
 I love exploring new technologies and continuously improving my development and problem-solving skills.
+ 
+
+🔗 **GitHub:** https://github.com/Priya-Sharma06  
+🔗 **LinkedIn:** https://www.linkedin.com/in/priya-sharma-harit-7a0695291
 
 ---
+
 
 # 🚀 What I Do
 
