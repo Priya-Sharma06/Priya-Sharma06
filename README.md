@@ -153,25 +153,6 @@ A **smart travel planning application** that recommends itineraries using AI and
 
 ---
 
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/priya-sharma-harit-7a0695291">
-<img src="https://img.shields.io/badge/LinkedIn-Priya%20Sharma-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:283priyasharma@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/Priya-Sharma06">
-<img src="https://img.shields.io/badge/GitHub-Priya%20Sharma-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
 
 # 🎯 Fun Facts
 
