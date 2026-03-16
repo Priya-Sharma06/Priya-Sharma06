@@ -14,20 +14,17 @@
 
 # 👩‍💻 About Me
 
-🎓 B.Tech student in **Artificial Intelligence & Machine Learning** at  
-Vivekananda Institute of Professional Studies (GGSIPU), Delhi.
+🎓 B.Tech student in **Artificial Intelligence & Machine Learning**  
+at **Vivekananda Institute of Professional Studies (GGSIPU)**.
 
-💡 Passionate about building **AI-driven applications and full stack web solutions**.
+💡 I enjoy combining **AI and web technologies** to build intelligent, real-world applications.
 
-📊 Strong interest in:
+🚀 Currently exploring:
 
 • Machine Learning  
 • Artificial Intelligence  
-• Web Development  
-• Data Analysis  
-• Building real-world intelligent applications  
-
-🚀 I enjoy developing projects that combine **AI models with practical applications**.
+• Full Stack Web Development  
+• Data Analysis & Visualization  
 
 ---
 
@@ -35,16 +32,16 @@ Vivekananda Institute of Professional Studies (GGSIPU), Delhi.
 
 <p align="center">
 
-<a href="www.linkedin.com/in/priya-sharma-harit-7a0695291">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/priya-sharma-harit-7a0695291">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:283priyasharma@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://github.com/Priya-Sharma06">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -70,7 +67,7 @@ Git • GitHub • VS Code • IntelliJ IDEA
 
 ### Core Computer Science
 Data Structures & Algorithms  
-Object-Oriented Programming  
+Object Oriented Programming  
 DBMS  
 Operating Systems
 
@@ -79,14 +76,14 @@ Operating Systems
 # 🚀 Featured Projects
 
 ### 🤖 Virtual Assistant
-Voice-enabled AI assistant capable of handling system tasks and voice commands.
+Voice-enabled AI assistant that performs tasks and responds to voice commands.
 
 🔗 https://github.com/Priya-Sharma06/Virtual-Assistant
 
 ---
 
 ### 🏨 Hotel Booking Website
-Web platform for browsing and booking hotel stays.
+Web application that allows users to browse and book hotel stays.
 
 🔗 https://github.com/Priya-Sharma06/Hotel-Booking
 
@@ -100,14 +97,14 @@ Interactive website showcasing shoe collections with cart functionality.
 ---
 
 ### 📊 Demand Forecasting System
-Machine learning project for predicting demand patterns.
+Machine learning system that predicts demand trends using historical data.
 
 🔗 https://github.com/Priya-Sharma06/demand_forecast
 
 ---
 
 ### 🌍 AI Trip Planner
-AI-based travel planning system that generates personalized itineraries.
+AI-powered travel planner generating personalized itineraries.
 
 🔗 https://github.com/nikhil22321/AI-trip-planner
 
@@ -152,7 +149,7 @@ AI-based travel planning system that generates personalized itineraries.
 
 💻 Artificial Intelligence & Machine Learning  
 🌐 Web Development  
-📊 Data Analysis & Visualization  
+📊 Data Analysis  
 🚀 Building intelligent real-world applications
 
 ---
