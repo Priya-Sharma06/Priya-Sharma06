@@ -1,168 +1,166 @@
-<!-- Name -->
-<h1 align="center">Priya Sharma Harit</h1>
+# Hi, I'm Priya Sharma Harit 👋
 
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Enthusiast;Software+Developer;Python+Developer;Building+Smart+Applications;Exploring+AI+and+Intelligent+Systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI%2FML+%26+Software+Developer;LLM+Evaluation+Research+Intern+%40+IIIT-Delhi;Building+AI-Powered+Applications;Full-Stack+Development+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
 </p>
 
 <p align="center">
-AI • Machine Learning • Software Development • Smart Applications
+  <a href="https://github.com/Priya-Sharma06">
+    <img src="https://img.shields.io/badge/GitHub-Priya--Sharma06-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/priya-sharma-harit-7a0695291/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
----
+## 👩‍💻 About Me
 
-# 👩‍💻 About Me
+I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning at GGSIPU – Vivekananda Institute of Professional Studies**, graduating in 2027.
 
-Hello! I'm **Priya Sharma**, a developer passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
+Currently, I'm a **Research Intern at IIIT-Delhi under the supervision of Dr. Vibhor Kumar**, working on Large Language Model (LLM) evaluation and benchmarking.
 
-I enjoy building applications that solve real-world problems using **AI models, Python programming, and modern web technologies**. My focus is on creating systems that are **smart, efficient, and user-friendly**.
+My interests span software engineering, AI/ML, LLM evaluation, and building practical applications that solve real-world problems.
 
-I love exploring new technologies and continuously improving my development and problem-solving skills.
- 
+- 🔬 Researching LLM evaluation, benchmarking, and response quality.
+- 💻 Building full-stack applications and AI-powered systems.
+- 🧠 Practicing data structures, algorithms, and problem-solving.
+- 📊 Exploring machine learning, data analysis, and intelligent applications.
+- 🎯 Open to software engineering, AI/ML, and related internship opportunities.
 
-🔗 **GitHub:** https://github.com/Priya-Sharma06  
-🔗 **LinkedIn:** https://www.linkedin.com/in/priya-sharma-harit-7a0695291
+## 🛠️ Technical Skills
 
----
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
+### AI, Machine Learning & Data
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/DeepEval-LLM_Evaluation-6C5CE7?style=flat-square" alt="DeepEval"/>
+  <img src="https://img.shields.io/badge/Ollama-LLM_Tooling-222222?style=flat-square" alt="Ollama"/>
+</p>
 
-# 🚀 What I Do
+### Web Development & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-🔹 Build **AI-powered applications**  
-🔹 Develop **Python-based intelligent systems**  
-🔹 Create **interactive web applications**  
-🔹 Work with **machine learning models & data analysis**  
-🔹 Explore **real-world AI solutions**
+### Databases & Developer Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
 
----
+## 🚀 Featured Projects
 
-# 🛠️ Skills & Technologies
+### 1. DSA Visualizer
+**Interactive Algorithm Learning Platform**
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+🔗 [View Repository](https://github.com/Priya-Sharma06/DSA-visualizer)
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- Developed a full-stack interactive platform for visualizing 40+ data structures and algorithms.
+- Built using React, FastAPI, MongoDB, and Tailwind CSS.
+- Implemented execution-step tracking with synchronized pseudocode highlighting and visual state changes.
+- Developed APIs for AI-powered tutoring, execution history, algorithm recommendations, and progress tracking.
 
-### 🤖 AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+**Tech Stack:** React · FastAPI · MongoDB · Tailwind CSS · REST APIs
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+### 2. AI Trip Planner
+**Personalized Travel Planning Application**
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellij-idea)
+🔗 [View Repository](https://github.com/Priya-Sharma06/AI-Trip-Planner)
 
----
+- Built a full-stack application that generates personalized multi-day travel itineraries.
+- Integrated an LLM API and Google Places API for itinerary generation and location-related information.
+- Implemented reusable UI components, client-side state management, and persistent storage.
 
-# 🌟 Featured Projects
+**Tech Stack:** Next.js · React · REST APIs · LLM API · Google Places API
 
-### 🗣️ Virtual Assistant
-🔗 https://github.com/Priya-Sharma06/Virtual-Assistant  
+### 3. Demand Forecasting & Inventory Optimization
+**Data-Driven Forecasting Application**
 
-A **voice-based AI assistant** built using **Python, Speech Recognition, and Machine Learning**.
+🔗 [View Repository](https://github.com/Priya-Sharma06/demand_forecast)
 
-✨ Features:
-- Understands voice commands
-- Answers questions intelligently
-- Opens applications like YouTube
-- Provides interactive responses
+- Developed a forecasting application using historical data and time-series techniques.
+- Explored demand prediction to support inventory planning and data-driven decisions.
+- Built an interactive dashboard for presenting forecasting results.
 
-This project demonstrates how **AI can interact with users using natural language.**
+**Tech Stack:** Python · Pandas · Prophet · ARIMA · Streamlit
 
----
+### 4. Virtual Assistant
+**Voice-Based Assistant**
 
-### 🏨 Hotel Booking System
-🔗 https://github.com/Priya-Sharma06/Hotel-Booking  
+🔗 [View Repository](https://github.com/Priya-Sharma06/Virtual-Assistant)
 
-A **hotel booking platform** that allows users to explore hotels and manage bookings efficiently.
+- Developed a Python-based assistant for voice commands and interactive responses.
+- Implemented features such as application launching and voice-based interaction.
 
-Key highlights:
-- User-friendly interface
-- Booking management
-- Interactive design
+**Tech Stack:** Python · Speech Recognition
 
----
+### 5. Hotel Booking System
+**Hotel Booking Web Application**
 
-### 👟 Shoes E-commerce Website
-🔗 https://github.com/Priya-Sharma06/Shoes-website  
+🔗 [View Repository](https://github.com/Priya-Sharma06/Hotel-Booking)
 
-An interactive **online store interface** showcasing shoes collections.
+- Developed a web application for exploring hotels and managing bookings.
+- Focused on user interaction, booking workflows, and interface usability.
 
-Features include:
-- Add to Cart
-- Like products
-- Local storage persistence
+**Tech Stack:** Web Development
 
----
+## 🔬 Research Experience
 
-### 📊 Demand Forecasting System
-🔗 https://github.com/Priya-Sharma06/demand_forecast  
+**LLM Evaluation & Benchmarking — IIIT-Delhi**
 
-A **machine learning-based forecasting system** used to predict product demand trends.
+- Benchmarked 10+ large language models across knowledge, reasoning, and structured-data tasks.
+- Developed Python-based workflows for automated prompt execution, response collection, and comparative analysis.
+- Worked with Ollama and DeepEval to evaluate response relevance, hallucination/faithfulness, bias, and toxicity.
+- Evaluated a disease-prediction RAG chatbot, examining retrieval, reranking, context, and response quality.
 
-Useful for:
-- Inventory planning
-- Data-driven decision making
+*Research conducted under the supervision of Dr. Vibhor Kumar.*
 
----
+## 🏆 Achievements
 
-### ✈️ AI Trip Planner
-🔗 https://github.com/nikhil22321/AI-trip-planner  
+- 🥈 National Semifinalist — Flipkart GRID 7.0 (2025).
+- 🚀 Semifinalist — Coderush 5.0, IVP Hackathon (2025).
+- 💡 Solved 500+ algorithmic coding problems across LeetCode and Coding Ninjas.
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning — GGSIPU, VIPS (2023–2027).
 
-A **smart travel planning application** that recommends itineraries using AI and real-time location data.
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Priya-Sharma06&show_icons=true&theme=tokyonight">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Priya-Sharma06&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Sharma06&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priya-Sharma06&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priya-Sharma06&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
----
+## 🤝 Let's Connect
 
-# 📈 Contribution Graph
+I'm interested in software engineering, AI/ML, LLM evaluation, and building useful technology.
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya-Sharma06&theme=tokyo-night">
+  <a href="https://github.com/Priya-Sharma06">GitHub</a> •
+  <a href="https://www.linkedin.com/in/priya-sharma-harit-7a0695291/">LinkedIn</a>
 </p>
 
----
-
-
-# 🎯 Fun Facts
-
-✨ I love building **AI-powered smart systems**  
-💻 I enjoy solving **coding and algorithm challenges**  
-🚀 Always curious about **new technologies and innovations**  
-📚 Constantly learning and improving as a developer
-
----
-
-<p align="center">
-⭐ If you like my work, feel free to explore my repositories and connect with me!
-</p>
+⭐ Thanks for visiting my profile!
