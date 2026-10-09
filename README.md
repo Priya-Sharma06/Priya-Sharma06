@@ -17,14 +17,14 @@
 
 I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning at GGSIPU – Vivekananda Institute of Professional Studies**, graduating in 2027.
 
-Currently, I'm a **Research Intern at IIIT-Delhi under the supervision of Dr. Vibhor Kumar**, working on Large Language Model (LLM) evaluation, benchmarking, and the evaluation of a RAG-based disease-prediction chatbot.
+Currently, I'm a **Research Intern at IIIT-Delhi under the supervision of Dr. Vibhor Kumar**, working on LLM evaluation and a RAG-based disease-prediction chatbot.
 
-My interests include software engineering, AI/ML, retrieval-augmented generation (RAG), and building practical applications that solve real-world problems.
+I enjoy combining software engineering and AI to build practical applications and investigate the reliability of language-model outputs.
 
-- 🔬 Evaluating LLMs across knowledge, reasoning, and structured-data tasks.
-- 🧬 Analyzing retrieval, reranking, contextual grounding, and generated responses in a disease-prediction chatbot.
+- 🔬 Benchmarking LLMs across knowledge, reasoning, and structured-data tasks.
+- 🧬 Evaluating retrieval, reranking, contextual grounding, and generated responses.
 - 💻 Building full-stack applications and AI-powered systems.
-- 🧠 Practicing data structures, algorithms, and problem-solving.
+- 🧠 Solving data structures and algorithms problems.
 - 🎯 Interested in software engineering, AI/ML, and LLM-related opportunities.
 
 ## 🛠️ Technical Skills
@@ -53,7 +53,7 @@ My interests include software engineering, AI/ML, retrieval-augmented generation
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
-### 🌐 Web Development & Frameworks
+### 🌐 Web Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -63,7 +63,7 @@ My interests include software engineering, AI/ML, retrieval-augmented generation
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### 🗄️ Databases, Libraries & Tools
+### 🗄️ Databases & Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -77,33 +77,34 @@ My interests include software engineering, AI/ML, retrieval-augmented generation
 ## 🔬 Research Experience
 
 ### LLM Evaluation & RAG-Based Disease-Prediction Chatbot
+
 **Research Intern | IIIT-Delhi**  
 *Under the supervision of Dr. Vibhor Kumar | June 2026 – Present*
 
-- Conducting systematic benchmarking of **10+ large language models** across knowledge, reasoning, and structured-data tasks.
-- Developing Python-based workflows for automated prompt execution, response collection, and comparative analysis.
-- Using **Ollama and DeepEval** to assess response relevance, hallucination/faithfulness, bias, and toxicity.
-- Working on the evaluation and debugging of a **RAG-based disease-prediction chatbot**, focusing on the LLM and retrieval-to-generation pipeline.
-- Analyzing retrieved documents, embedding-based retrieval, FAISS search, reranking, and generated responses to investigate retrieval and response-quality issues.
-- Examining how retrieved context and response grounding affect the chatbot's outputs.
+- Benchmarking **10+ LLMs** across knowledge, reasoning, and structured-data tasks.
+- Developing Python workflows for automated prompt execution, response collection, and comparative analysis.
+- Using **Ollama and DeepEval** to evaluate response relevance, hallucination/faithfulness, bias, and toxicity.
+- Evaluating and debugging a RAG-based disease-prediction chatbot, focusing on the retrieval-to-generation pipeline and LLM response quality.
+- Analyzing embeddings, FAISS retrieval, reranking, retrieved context, and generated responses to investigate retrieval and grounding issues.
 
-**Research technologies:** Python · LLMs · RAG · Ollama · DeepEval · FAISS · Embeddings · Reranking
+**Technologies:** Python · LLMs · RAG · Ollama · DeepEval · FAISS · Embeddings · Reranking
 
 ## 🚀 Featured Projects
 
 ### 1. DSA Visualizer
+
 **Interactive Algorithm Learning Platform**
 
 🔗 [View Repository](https://github.com/Priya-Sharma06/DSA-visualizer)
 
-- Developed a full-stack interactive platform for visualizing **40+ data structures and algorithms**.
-- Built using React, FastAPI, MongoDB, and Tailwind CSS.
+- Built a full-stack platform for visualizing **40+ data structures and algorithms**.
 - Implemented execution-step tracking with synchronized pseudocode highlighting and visual state changes.
 - Developed REST APIs for AI-powered tutoring, execution history, algorithm recommendations, and progress tracking.
 
 **Tech Stack:** React · FastAPI · MongoDB · Tailwind CSS · REST APIs
 
 ### 2. AI Trip Planner
+
 **Personalized Travel Planning Application**
 
 🔗 [View Repository](https://github.com/Priya-Sharma06/AI-Trip-Planner)
@@ -114,23 +115,24 @@ My interests include software engineering, AI/ML, retrieval-augmented generation
 
 **Tech Stack:** Next.js · React · REST APIs · LLM API · Google Places API
 
-### 3. Demand Forecasting & Inventory Optimization
-**Data-Driven Forecasting Application**
+### 3. Demand Forecasting
+
+**Time-Series Forecasting Application**
 
 🔗 [View Repository](https://github.com/Priya-Sharma06/demand_forecast)
 
 - Developed a forecasting application using historical data and time-series techniques.
-- Explored demand prediction to support inventory planning and data-driven decisions.
-- Built an interactive Streamlit dashboard to present forecasting results.
+- Explored demand prediction for inventory planning and data-driven decision-making.
+- Built a Streamlit dashboard to present forecasting results.
 
 **Tech Stack:** Python · Pandas · Prophet · ARIMA · Streamlit
-
 
 ## 🏆 Achievements
 
 - 🥈 National Semifinalist — Flipkart GRID 7.0 (2025).
 - 🚀 Semifinalist — Coderush 5.0, IVP Hackathon (2025).
 - 💡 Solved **500+ algorithmic coding problems** across LeetCode and Coding Ninjas.
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning — GGSIPU–VIPS (2023–2027).
 - 📚 CGPA: **9.1/10**.
 
 ## 📊 GitHub Statistics
