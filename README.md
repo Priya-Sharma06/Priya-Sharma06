@@ -17,7 +17,7 @@
 
 I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning at GGSIPU – Vivekananda Institute of Professional Studies**, graduating in 2027.
 
-Currently, I'm a **Research Intern at IIIT-Delhi under the supervision of Dr. Vibhor Kumar**, working on Large Language Model (LLM) evaluation and benchmarking.
+Currently, I'm a Research Intern at IIIT-Delhi under the supervision of Dr. Vibhor Kumar, working on Large Language Model (LLM) evaluation, benchmarking, and the evaluation of a RAG-based disease-prediction chatbot.
 
 My interests span software engineering, AI/ML, LLM evaluation, and building practical applications that solve real-world problems.
 
