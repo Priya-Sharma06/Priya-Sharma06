@@ -125,35 +125,6 @@ My interests include software engineering, AI/ML, retrieval-augmented generation
 
 **Tech Stack:** Python · Pandas · Prophet · ARIMA · Streamlit
 
-### 4. Virtual Assistant
-**Voice-Based Assistant**
-
-🔗 [View Repository](https://github.com/Priya-Sharma06/Virtual-Assistant)
-
-- Developed a Python-based assistant for voice commands and interactive responses.
-- Implemented features such as application launching and voice-based interaction.
-
-**Tech Stack:** Python · Speech Recognition
-
-### 5. Hotel Booking System
-**Hotel Booking Web Application**
-
-🔗 [View Repository](https://github.com/Priya-Sharma06/Hotel-Booking)
-
-- Developed a web application for exploring hotels and managing bookings.
-- Focused on user interaction, booking workflows, and interface usability.
-
-**Tech Stack:** Web Development
-
-### 6. Shoes E-Commerce Website
-**Interactive Shopping Interface**
-
-🔗 [View Repository](https://github.com/Priya-Sharma06/Shoes-website)
-
-- Developed an interactive online store interface for browsing a shoe collection.
-- Implemented add-to-cart functionality, product likes, and local-storage persistence.
-
-**Tech Stack:** HTML · CSS · JavaScript
 
 ## 🏆 Achievements
 
