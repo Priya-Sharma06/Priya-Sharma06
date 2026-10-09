@@ -160,7 +160,6 @@ My interests include software engineering, AI/ML, retrieval-augmented generation
 - 🥈 National Semifinalist — Flipkart GRID 7.0 (2025).
 - 🚀 Semifinalist — Coderush 5.0, IVP Hackathon (2025).
 - 💡 Solved **500+ algorithmic coding problems** across LeetCode and Coding Ninjas.
-- 🎓 B.Tech in Artificial Intelligence and Machine Learning — GGSIPU, VIPS (2023–2027).
 - 📚 CGPA: **9.1/10**.
 
 ## 📊 GitHub Statistics
